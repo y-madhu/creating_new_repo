@@ -6,7 +6,7 @@
  "customizations": {
      "vscode": {
          "extensions": [
-             "java extension pack auto config"
+             "GitHub.jdk"
          ]
      },
      "codespaces": {
