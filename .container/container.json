@@ -1,0 +1,18 @@
+{
+  // Name this configuration
+  "name": "Codespace for Skills!",
+  ,
+ // Add the IDs of extensions you want installed when the container is created.
+ "customizations": {
+     "vscode": {
+         "extensions": [
+             "java extension pack auto config"
+         ]
+     },
+     "codespaces": {
+         "openFiles": [
+             "codespace.md"
+         ]
+     }
+ }
+  
